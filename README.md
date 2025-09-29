@@ -1,5 +1,9 @@
 # Memory Game
 
+## Deployed website
+
+https://ev-memory.netlify.app/
+
 ## 🚀 Getting Started
 
 1. Fork the repo (Make a copy of it to your repos)
